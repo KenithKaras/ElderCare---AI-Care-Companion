@@ -1,0 +1,10 @@
+{
+  "name": "Elder Care Assistant",
+  "description": "A comprehensive, elder-friendly platform for independent living, featuring medication tracking, health monitoring, emergency SOS, and mental wellness activities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "bluetooth"
+  ]
+}
