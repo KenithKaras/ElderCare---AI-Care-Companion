@@ -32,5 +32,20 @@ ECA supports real-time heart rate monitoring.
 2. Ensure your watch is in "Broadcast" or "Pairing" mode.
 3. Tap **Smart Watch / Bluetooth HRM** and select your device.
 
+
+## 🚀 Future Scope
+SMS Emergency Alerts (Twilio)
+Voice-based AI Assistant
+Full wearable device support
+Cloud deployment
+Advanced security
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+# 🔐 Security Note
+
+Sensitive data like API keys are stored in .env and are not uploaded to GitHub.
+
 ---
 *Disclaimer: Elder Care Assistant provides health tracking and advice powered by AI. It is NOT a replacement for professional medical diagnosis or emergency services (911).*
